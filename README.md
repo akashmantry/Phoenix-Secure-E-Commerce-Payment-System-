@@ -17,10 +17,21 @@ The system is based on Secure Electronic Transaction (SET) which uses the concep
 5. Cryptography - Java Cryptography Architecture
 ## Implementation:
 ### 1. Registration of new user:
+![Registration_1](/images/Registration_bd.PNG?raw=true)
+![Registration_2](/images/Registration_mobile.PNG?raw=true)
 ### 2. User login:
+![Login_1](/images/Login_bd.PNG?raw=true)
+![Login_2](/images/Login_mobile.PNG?raw=true)
 ### 3. Product Selection:
+![Product_1](/images/Product_bd.PNG?raw=true)
+![Product_2](/images/Product_mobile.PNG?raw=true)
 ### 4. Client-Merchant exchange:
-### 5. Merchnat-Payment Gateway exchange:
-### 6. Payment Gateway-Client exchange:
-### 7. Payment Gateway-Merchant exchange:
-### 8. Mechant-Client exchange:
+![CM_1](/images/Client_Merchant_bd.PNG?raw=true)
+![CM_2](/images/Payment_mobile.PNG?raw=true)
+### 5. Client-Payment Gateway exchange:
+![CP_1](/images/Client_PG.PNG?raw=true)
+![CP_2](/images/OTP_mobile.PNG?raw=true)
+### 6. Payment Gateway-Merchant exchange:
+![PM_1](/images/PG_merchant_bd.PNG?raw=true)
+### 7. Mechant-Client exchange:
+![MC_1](/images/email_mobile.PNG?raw=true)
