@@ -29,7 +29,7 @@ The system is based on Secure Electronic Transaction (SET) which uses the concep
 ![CM_1](/Images/Client_Merchant_bd.PNG?raw=true)
 ![CM_2](/Images/Payment_mobile.PNG?raw=true)
 ### 5. Client-Payment Gateway exchange:
-![CP_1](/Images/Client_PG.PNG?raw=true)
+![CP_1](/Images/Client_PG_bd.PNG?raw=true)
 ![CP_2](/Images/OTP_mobile.PNG?raw=true)
 ### 6. Payment Gateway-Merchant exchange:
 ![PM_1](/Images/PG_merchant_bd.PNG?raw=true)
